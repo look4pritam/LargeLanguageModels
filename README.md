@@ -19,3 +19,12 @@
 
 ### Subword Tokenization
 - Break down text into subwords
+
+### Byte Pair Encoding 
+- BPE
+
+### WordPiece
+-
+
+### SentencePiece
+-
