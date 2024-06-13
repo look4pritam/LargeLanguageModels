@@ -17,3 +17,5 @@
 - Break down sentences into smaller components
 - Tokens - Words, numbers, or punctuation marks
 
+### Subword Tokenization
+- Break down text into subwords
