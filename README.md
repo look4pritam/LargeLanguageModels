@@ -22,10 +22,15 @@
 - Haystack - Semantic Search Engines, Information Retrieval Systems
 - HuggingFace - 
 
+### Low Rank Adaptation 
+- LoRA
+- 
+
 #### References
 - [Introduction to LLM Evaluation: Navigating the Future of AI Technologies]([)](https://medium.com/codecontent/introduction-to-llm-evaluation-navigating-the-future-of-ai-technologies-e1fcd5db2e04)
 - [Choosing the Right Generative AI Framework-LangChain, LlamaIndex, Haystack, or Hugging Face](https://generativeai.pub/choosing-the-right-generative-ai-framework-langchain-llamaindex-haystack-or-hugging-face-29a6b23b2ca3)
-  
+- [Low Rank Adaptation (LoRA): From Intuition to Implementation to Interview Questions](https://medium.com/@AnveeNaik/low-rank-adaptation-lora-from-intuition-to-implementation-to-interview-questions-1461c6a81615)
+
 ### Natural Language Processing
 - NLP
 - Part-of-Speech (POS) Tagging
