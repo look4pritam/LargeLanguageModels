@@ -1,8 +1,20 @@
 # Large Language Models
 
-### Large Language Models Evaluation
+### LLM Evaluation - Why ?
 - Reliability
 - Effectiveness
+
+### LLM Evaluation - How ?
+- LLM Model Evaluation
+- LLM System Evaluation
+  
+### LLM Model Evaluation
+- TruthfulQA
+- Massively Multitask Language Understanding
+  
+### LLM System Evaluation 
+-
+-
 
 #### References
 - [Introduction to LLM Evaluation: Navigating the Future of AI Technologies]([)](https://medium.com/codecontent/introduction-to-llm-evaluation-navigating-the-future-of-ai-technologies-e1fcd5db2e04)
