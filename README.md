@@ -29,7 +29,9 @@
     - Compute intensive
     - Memory intensive
     - Data intensive
-    - Extensive Hardware 
+    - Extensive Hardware
+  - Large Models - Low intrinsic dimension
+    - Fewer trainable parameters - Comparable performance
 - LoRA - How ?
   - Fine-tune LLM
   - Small dataset
