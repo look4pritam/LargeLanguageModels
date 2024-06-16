@@ -16,11 +16,16 @@
 -
 -
 
-### Frameworks
+### LLM Frameworks
 - LangChain - Text Summarisation, Question Answering and Chatbots
 - LlamaIndex - Document Q&A, Retrieval Augmented Generation, Knowledge Agents
 - Haystack - Semantic Search Engines, Information Retrieval Systems
 - HuggingFace - 
+
+### Fine-tune
+- Layer-wise Fine-Tuning
+- Parameter Selective Fine-tuning
+- Adapter-based Fine-tuning
 
 ### Low Rank Adaptation 
 - LoRA
