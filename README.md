@@ -19,8 +19,8 @@
 ### Frameworks
 - LangChain - Text Summarisation, Question Answering and Chatbots
 - LlamaIndex - Document Q&A, Retrieval Augmented Generation, Knowledge Agents
-- Haystack
-- HuggingFace
+- Haystack - Semantic Search Engines, Information Retrieval Systems
+- HuggingFace - 
 
 #### References
 - [Introduction to LLM Evaluation: Navigating the Future of AI Technologies]([)](https://medium.com/codecontent/introduction-to-llm-evaluation-navigating-the-future-of-ai-technologies-e1fcd5db2e04)
