@@ -42,7 +42,13 @@
   - Small dataset
   - Few parameetrs
   - LLM adaptors
--   
+- LoRA - Advantages
+  - Significant reduction in trainable parameters
+  - Faster and more efficient fine-tuning
+  - Preservation of original pre-trained weights
+  - Multiple lightweight models for different tasks
+  - Comparable performance to fully fine-tuned models
+  - No additional inference latency
 
 #### References
 
