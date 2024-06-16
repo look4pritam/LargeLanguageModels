@@ -1,6 +1,10 @@
 # Large Language Models
 
-### Evalution
+### Large Language Models Evaluation
+- Reliability
+- Effectiveness
+
+#### References
 - [Introduction to LLM Evaluation: Navigating the Future of AI Technologies]([)](https://medium.com/codecontent/introduction-to-llm-evaluation-navigating-the-future-of-ai-technologies-e1fcd5db2e04)
 
 ### Natural Language Processing
