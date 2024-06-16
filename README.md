@@ -17,7 +17,7 @@
 -
 
 ### Frameworks
-- LangChain
+- LangChain - Text Summarisation, Question Answering and Chatbots
 - LlamaIndex
 - Haystack
 - HuggingFace
