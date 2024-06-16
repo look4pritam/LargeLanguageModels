@@ -18,7 +18,7 @@
 
 ### Frameworks
 - LangChain - Text Summarisation, Question Answering and Chatbots
-- LlamaIndex
+- LlamaIndex - Document Q&A, Retrieval Augmented Generation, Knowledge Agents
 - Haystack
 - HuggingFace
 
