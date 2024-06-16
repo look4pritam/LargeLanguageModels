@@ -24,7 +24,18 @@
 
 ### Low Rank Adaptation 
 - LoRA
-- 
+- LoRA - Why ?
+  - LLM fine-tuning
+    - Compute intensive
+    - Memory intensive
+    - Data intensive
+    - Extensive Hardware 
+- LoRA - How ?
+  - Fine-tune LLM
+  - Small dataset
+  - Few parameetrs
+  - LLM adaptors
+-   
 
 #### References
 - [Introduction to LLM Evaluation: Navigating the Future of AI Technologies]([)](https://medium.com/codecontent/introduction-to-llm-evaluation-navigating-the-future-of-ai-technologies-e1fcd5db2e04)
