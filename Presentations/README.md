@@ -10,9 +10,9 @@
 ### In Context Learning
 - Context window
 - Task example/s within the Context window
-- Zero shot learning
-- One shot learning
- - Few shot learning
+- Zero shot inference
+- One shot inference
+- Few shot inference
    
 ### Instruction Fine Tuning
 -
