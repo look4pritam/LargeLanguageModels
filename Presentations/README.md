@@ -1,10 +1,14 @@
 # Large Language Models
 
+### Next Token Prediction
+- Recurrent Neural Networks - RNN
+- Transformer Models
+
 ### Recurrent Neural Networks
 -
 -
 
-### Transformer Architecture
+### Transformer Models
 -
 -
 
