@@ -53,7 +53,7 @@
 #### References
 
 ##### LLM
-- [Introduction to LLM Evaluation: Navigating the Future of AI Technologies]([)](https://medium.com/codecontent/introduction-to-llm-evaluation-navigating-the-future-of-ai-technologies-e1fcd5db2e04)
+- [Introduction to LLM Evaluation: Navigating the Future of AI Technologies](https://medium.com/codecontent/introduction-to-llm-evaluation-navigating-the-future-of-ai-technologies-e1fcd5db2e04)
 - [Choosing the Right Generative AI Framework-LangChain, LlamaIndex, Haystack, or Hugging Face](https://generativeai.pub/choosing-the-right-generative-ai-framework-langchain-llamaindex-haystack-or-hugging-face-29a6b23b2ca3)
 
 ##### LoRA
