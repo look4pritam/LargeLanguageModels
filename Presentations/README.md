@@ -1,5 +1,9 @@
 # Large Language Models
 
+### Transformer Architecture
+-
+-
+
 ### In Context Learning
 -
 -
@@ -8,6 +12,14 @@
 -
 -
 
-###
+### Instruction Fine Tuning
+-
+-
+
+### Parameter Efficient Fine Tuning
+-
+-
+
+### 
 -
 -
