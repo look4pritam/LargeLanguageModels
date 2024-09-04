@@ -9,8 +9,9 @@
 -
 
 ### Prompt Engineering
--
--
+- Prompt
+- Context Window
+- Completion
 
 ### Instruction Fine Tuning
 -
