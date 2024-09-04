@@ -1,17 +1,5 @@
 # Large Language Models
 
-### Next Token Prediction
-- Recurrent Neural Networks - RNN
-- Transformer Models
-
-### Recurrent Neural Networks
--
--
-
-### Transformer Models
--
--
-
 ### In Context Learning
 -
 -
