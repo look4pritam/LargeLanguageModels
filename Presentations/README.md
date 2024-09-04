@@ -9,7 +9,7 @@
 
 ### In Context Learning
 - Context window
-- Example/s within the Prompt
+- Task example/s within the Context window
 - Zero shot learning
 - One shot learning
  - Few shot learning
