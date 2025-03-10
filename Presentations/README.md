@@ -7,3 +7,4 @@
 - [What Makes Large Language Models Expensive?](https://www.youtube.com/watch?v=7gMg98Hf3uM)
 - [What is a Vector Database?](https://www.youtube.com/watch?v=t9IDoenf-lo)
 - [RAG Explained](https://www.youtube.com/watch?v=qppV3n3YlF8)
+- [What are Word Embeddings?](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
