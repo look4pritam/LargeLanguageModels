@@ -15,3 +15,4 @@
 - [RAG Explained](https://www.youtube.com/watch?v=qppV3n3YlF8)
 - [What are Word Embeddings?](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
 - [What is Prompt Tuning?](https://www.youtube.com/watch?v=yu27PWzJI_Y)
+- [4 Methods of Prompt Engineering](https://www.youtube.com/watch?v=1c9iyoVIwDs)
