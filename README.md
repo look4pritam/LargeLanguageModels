@@ -1,5 +1,15 @@
 # Large Language Models
 
+## Lecture One
+- [Introduction](https://github.com/look4pritam/LargeLanguageModels/tree/master/Presentations/Introduction)
+- (2 Hour Theory)
+
+## Lecture Two
+- [Fine-Tuning](https://github.com/look4pritam/LargeLanguageModels/tree/master/Presentations/Fine-Tuning)
+- (1 Hour Theory) + (1 Hour Practical)
+
+## References
+
 ### LLM Evaluation - Why ?
 - Reliability
 - Effectiveness
